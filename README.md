@@ -1,7 +1,7 @@
 Marion UrT Server sharing on IRC
 ================================
 
-You probably heard of she if you know a bit the Urban Terror community. Marion is the bot that I coded to share our private servers via IRC
+You probably heard of she if you know a bit the Urban Terror community. Marion is the bot that I coded to share our private servers via IRC. It was planed for a long time, so here is it, the source code of the bot :)
 
 
 ## Requirements
@@ -14,9 +14,9 @@ You probably heard of she if you know a bit the Urban Terror community. Marion i
 
 ## Setup 
 	* Grab the code
-	* READ THE CODE
+	* __READ THE CODE__
 	* Install the requirement
-	* Set your settings by edition all files in conf/*
+	* Set your settings by editing all files in conf/*
 	* run it
 
 ## How it works / How to use it ?
