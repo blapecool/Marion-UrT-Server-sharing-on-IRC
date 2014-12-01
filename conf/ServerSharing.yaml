@@ -1,0 +1,27 @@
+---
+SERVER0:
+  ip: 123.123.123.123
+  port: 27970
+  rcon: RC0nP@$$
+  state: free
+  config: -1
+  map:  -1
+  nextmap: -1
+  password: -1
+  requester: -1
+  request_time: -1
+  reset_token: -1
+  refpassword: -1
+SERVER1:
+  ip: 123.123.123.123
+  port: 27971
+  rcon: RC0nP@$$
+  state: free
+  config: -1
+  map:  -1
+  nextmap: -1
+  password: -1
+  requester: -1
+  request_time: -1
+  reset_token: -1
+  refpassword: -1
